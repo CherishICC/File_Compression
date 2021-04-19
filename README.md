@@ -1,4 +1,4 @@
-# Text-Compression
+# File Compression
 
 Clock compresssion rates of upto 63%
 
